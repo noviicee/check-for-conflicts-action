@@ -1,4 +1,4 @@
-name: 'Merge Conflict Finder'
+name: 'Check for Conflicts Action'
 description: 'Greet, Record Time and Check if there are any unresolved merge conflicts'
 branding:
   icon: 'git-merge'
